@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning ASP.NET Core
 - 📫How to reach me: jakub.wojtyna06@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=2kuba1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
