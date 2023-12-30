@@ -12,10 +12,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/pl-pl/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/4252422e9636fedef88885c73604ef597e49d9a8a90e850715714caa4cb8aa4d/68747470733a2f2f636f64656f70696e696f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4269746d61702d4d454449554d5f4153502e4e45542d436f72652d4c6f676f5f32636f6c6f72735f5371756172655f5247422e706e67" alt="asp.net" width="40" height="40"/>
+    <img src="https://codeopinion.com/wp-content/uploads/2018/07/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_RGB.png" alt="asp.net" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
