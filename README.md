@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning ASP.NET Core
 - 📫How to reach me: jakub.wojtyna06@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=2kuba1&theme=calm-pink)](https://git.io/streak-stats)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
