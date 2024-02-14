@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jakub
 ![](https://komarev.com/ghpvc/?username=2kuba1&style=flat-square)
 
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning ASP.NET Core and Unity Game Engine
 - 📫How to reach me: jakub.wojtyna06@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
